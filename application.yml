@@ -1,2 +1,5 @@
 my:
   first: hello
+
+banner:
+      location: https://shreedhan.paymonk.com/offers/banner.txt
