@@ -1,0 +1,17 @@
+${AnsiColor.BLUE}
+PPPPPPPPPPPPPPPPP        AAA           YYYYYYY       YYYYYYYMMMMMMMM               MMMMMMMM     OOOOOOOOO     NNNNNNNN        NNNNNNNNKKKKKKKKK    KKKKKKK
+P::::::::::::::::P      A:::A          Y:::::Y       Y:::::YM:::::::M             M:::::::M   OO:::::::::OO   N:::::::N       N::::::NK:::::::K    K:::::K
+P::::::PPPPPP:::::P    A:::::A         Y:::::Y       Y:::::YM::::::::M           M::::::::M OO:::::::::::::OO N::::::::N      N::::::NK:::::::K    K:::::K
+PP:::::P     P:::::P  A:::::::A        Y::::::Y     Y::::::YM:::::::::M         M:::::::::MO:::::::OOO:::::::ON:::::::::N     N::::::NK:::::::K   K::::::K
+  P::::P     P:::::P A:::::::::A       YYY:::::Y   Y:::::YYYM::::::::::M       M::::::::::MO::::::O   O::::::ON::::::::::N    N::::::NKK::::::K  K:::::KKK
+  P::::P     P:::::PA:::::A:::::A         Y:::::Y Y:::::Y   M:::::::::::M     M:::::::::::MO:::::O     O:::::ON:::::::::::N   N::::::N  K:::::K K:::::K
+  P::::PPPPPP:::::PA:::::A A:::::A         Y:::::Y:::::Y    M:::::::M::::M   M::::M:::::::MO:::::O     O:::::ON:::::::N::::N  N::::::N  K::::::K:::::K
+  P:::::::::::::PPA:::::A   A:::::A         Y:::::::::Y     M::::::M M::::M M::::M M::::::MO:::::O     O:::::ON::::::N N::::N N::::::N  K:::::::::::K
+  P::::PPPPPPPPP A:::::A     A:::::A         Y:::::::Y      M::::::M  M::::M::::M  M::::::MO:::::O     O:::::ON::::::N  N::::N:::::::N  K:::::::::::K
+  P::::P        A:::::AAAAAAAAA:::::A         Y:::::Y       M::::::M   M:::::::M   M::::::MO:::::O     O:::::ON::::::N   N:::::::::::N  K::::::K:::::K
+  P::::P       A:::::::::::::::::::::A        Y:::::Y       M::::::M    M:::::M    M::::::MO:::::O     O:::::ON::::::N    N::::::::::N  K:::::K K:::::K
+  P::::P      A:::::AAAAAAAAAAAAA:::::A       Y:::::Y       M::::::M     MMMMM     M::::::MO::::::O   O::::::ON::::::N     N:::::::::NKK::::::K  K:::::KKK
+PP::::::PP   A:::::A             A:::::A      Y:::::Y       M::::::M               M::::::MO:::::::OOO:::::::ON::::::N      N::::::::NK:::::::K   K::::::K
+P::::::::P  A:::::A               A:::::A  YYYY:::::YYYY    M::::::M               M::::::M OO:::::::::::::OO N::::::N       N:::::::NK:::::::K    K:::::K
+P::::::::P A:::::A                 A:::::A Y:::::::::::Y    M::::::M               M::::::M   OO:::::::::OO   N::::::N        N::::::NK:::::::K    K:::::K
+PPPPPPPPPPAAAAAAA                   AAAAAAAYYYYYYYYYYYYY    MMMMMMMM               MMMMMMMM     OOOOOOOOO     NNNNNNNN         NNNNNNNKKKKKKKKK    KKKKKKK
