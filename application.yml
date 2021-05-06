@@ -37,18 +37,18 @@ spring:
     redis:
       repositories:
         enabled: false
-management:
-  endpoints:
-    web:
-      exposure:
-        include: '*'
+# management:
+#   endpoints:
+#     web:
+#       exposure:
+#         include: '*'
 
-eureka:
-  instance:
-    leaseRenewalIntervalInSeconds: 1
-    leaseExpirationDurationInSeconds: 2
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8111/eureka/
-    healthcheck:
-      enabled: true
+# eureka:
+#   instance:
+#     leaseRenewalIntervalInSeconds: 1
+#     leaseExpirationDurationInSeconds: 2
+#   client:
+#     serviceUrl:
+#       defaultZone: http://localhost:8111/eureka/
+#     healthcheck:
+#       enabled: true
