@@ -4,6 +4,9 @@ my:
 banner:
       location: https://shreedhan.paymonk.com/offers/banner.txt
 
+eurekaclient:
+  uri: http://localhost:8111/eureka/      
+
 datasource:
   master:
     username: deepak
