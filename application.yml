@@ -5,44 +5,5 @@ banner:
       location: https://shreedhan.paymonk.com/offers/banner.txt
 
 eurekaclient:
-  uri: http://localhost:8111/eureka/      
-
-datasource:
-  master:
-    username: deepak
-    password: D33p@k#ab
-    url: jdbc:mysql://10.0.3.45:3306/dba
-    driver-class-name: com.mysql.cj.jdbc.Driver
-  slave:
-    username: deepak
-    password: D33p@k#ab
-    url: jdbc:mysql://10.0.3.45:3306/dba
-    driver-class-name: com.mysql.cj.jdbc.Driver
+  uri: http://localhost:8111/eureka/
     
-spring:
-  banner:
-    location: ${banner.location}
-  datasource:
-    username: deepak
-    password: D33p@k#ab
-    url: jdbc:mysql://10.0.3.45:3306/dba
-    driver-class-name: com.mysql.cj.jdbc.Driver
-  data:
-    redis:
-      repositories:
-        enabled: false
-# management:
-#   endpoints:
-#     web:
-#       exposure:
-#         include: '*'
-
-# eureka:
-#   instance:
-#     leaseRenewalIntervalInSeconds: 1
-#     leaseExpirationDurationInSeconds: 2
-#   client:
-#     serviceUrl:
-#       defaultZone: http://localhost:8111/eureka/
-#     healthcheck:
-#       enabled: true

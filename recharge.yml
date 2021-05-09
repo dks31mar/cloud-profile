@@ -1,6 +1,4 @@
 spring:
-  config:
-    import: optional:configserver:http://localhost:8111/profile
   banner:
     location: ${banner.location}
   application:
@@ -19,19 +17,14 @@ spring:
     redis:
       repositories:
         enabled: false
-management:
-  endpoints:
-    web:
-      exposure:
-        include: '*'
-
-eureka:
-  instance:
-    leaseRenewalIntervalInSeconds: 1
-    leaseExpirationDurationInSeconds: 2
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8111/eureka/
-    healthcheck:
-      enabled: true
-
+datasource:
+  master:
+    username: deepak
+    password: D33p@k#ab
+    url: jdbc:mysql://10.0.3.45:3306/dba
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  slave:
+    username: deepak
+    password: D33p@k#ab
+    url: jdbc:mysql://10.0.3.45:3306/dba
+    driver-class-name: com.mysql.cj.jdbc.Driver        
