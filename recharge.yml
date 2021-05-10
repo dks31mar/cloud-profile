@@ -27,4 +27,20 @@ datasource:
     username: deepak
     password: D33p@k#ab
     url: jdbc:mysql://10.0.3.45:3306/dba
-    driver-class-name: com.mysql.cj.jdbc.Driver        
+    driver-class-name: com.mysql.cj.jdbc.Driver    
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+eureka:
+  instance:
+    leaseRenewalIntervalInSeconds: 1
+    leaseExpirationDurationInSeconds: 2
+  client:
+    serviceUrl:
+      defaultZone: ${eurekaclient.uri}
+    healthcheck:
+      enabled: true        

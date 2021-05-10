@@ -6,4 +6,9 @@ banner:
 
 eurekaclient:
   uri: http://localhost:8111/eureka/
+
+config:
+  client:
+    uri: http://localhost:8111/profile  
+
     
